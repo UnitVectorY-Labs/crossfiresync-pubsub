@@ -2,7 +2,7 @@
 
 # crossfiresync-pubsub
 
-Example implementation of [crossfiresync](https://github.com/UnitVectorY-Labs/crossfiresync) PubSub consumer
+Reference implementation of a [crossfiresync](https://github.com/UnitVectorY-Labs/crossfiresync) Pub/Sub consumer, featuring Java code and deployment scripts for Cloud Functions.
 
 The examples in this repository assume 3 regions are used, but this is just for demonstration purposes.  Any number of regions can be used in practice.
 
