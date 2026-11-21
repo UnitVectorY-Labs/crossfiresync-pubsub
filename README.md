@@ -1,6 +1,8 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Active](https://img.shields.io/badge/Status-Active-green)](https://guide.unitvectorylabs.com/bestpractices/status/#active)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Abandoned](https://img.shields.io/badge/Status-Abandoned-red)](https://guide.unitvectorylabs.com/bestpractices/status/#abandoned)
 
 # crossfiresync-pubsub
+
+This project is abandoned. Development and maintenance have stopped, and the source is retained for reference. Repository archival does not retire existing deployments; published artifacts and existing infrastructure are retained.
 
 Reference implementation of a [crossfiresync](https://github.com/UnitVectorY-Labs/crossfiresync) Pub/Sub consumer, featuring Java code and deployment scripts for Cloud Functions.
 
